@@ -1,0 +1,18 @@
+<refranes>
+  <refran id="R01">
+    <texto>La práctica hace al maestro</texto>
+    <autor>Desconocido</autor>
+    <fecha_actualizacion>2023-04-07</fecha_actualizacion>
+    <votos>20</votos>
+  </refran>
+  <refran id="R02">
+    <texto>Más vale prevenir que curar</texto>
+    <autor>Desconocido</autor>
+    <fecha_actualizacion>2023-04-07</fecha_actualizacion>
+    <votos>12</votos>
+  </refran>
+  <refran id="R03">
+    <texto>A quien madruga, Dios le ayuda</texto>
+    <autor>Benjamin Franklin</autor>
+  </refran>
+</refranes>
