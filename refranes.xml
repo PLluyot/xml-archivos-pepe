@@ -65,12 +65,6 @@
     <fecha_actualizacion>2023-04-07</fecha_actualizacion>
     <votos>16</votos>
   </refran>
-  <refran id="R12">
-    <texto>A quien madruga, Dios le ayuda</texto>
-    <autor>Proverbio popular</autor>
-    <fecha_actualizacion>2023-04-07</fecha_actualizacion>
-    <votos>19</votos>
-  </refran>
   <refran id="R13">
     <texto>Al mal tiempo, buena cara</texto>
     <autor>Proverbio popular</autor>
@@ -180,28 +174,10 @@
     <fecha_actualizacion>2023-04-07</fecha_actualizacion>
     <votos>18</votos>
   </refran>
-  <refran id="R31">
-    <texto>La práctica hace al maestro</texto>
-    <autor>Desconocido</autor>
-    <fecha_actualizacion>2023-04-07</fecha_actualizacion>
-    <votos>20</votos>
-  </refran>
   <refran id="R32">
     <texto>Más vale prevenir que curar</texto>
-    <autor>Desconocido</autor>
+    <autor>Provervio popular</autor>
     <fecha_actualizacion>2023-04-07</fecha_actualizacion>
     <votos>12</votos>
-  </refran>
-  <refran id="R33">
-    <texto>A quien madruga, Dios le ayuda</texto>
-    <autor>Benjamin Franklin</autor>
-    <fecha_actualizacion>2023-04-07</fecha_actualizacion>
-    <votos>4</votos>
-  </refran>
-  <refran id="R34">
-    <texto>El que mucho abarca, poco aprieta</texto>
-    <autor>Miguel de Cervantes</autor>
-    <fecha_actualizacion>2023-04-07</fecha_actualizacion>
-    <votos>6</votos>
   </refran>
 </refranes>
